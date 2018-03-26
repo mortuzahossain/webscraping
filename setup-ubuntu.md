@@ -12,5 +12,6 @@ sudo pip install -U setuptools
 ```
 sudo pip install bs4
 sudo pip install selenium
+sudo apt-get install build-essential chrpath libssl-dev libxft-dev libfreetype6-dev libfreetype6 libfontconfig1-dev libfontconfig1 -y
 sudo apt install phantomjs
 ```
